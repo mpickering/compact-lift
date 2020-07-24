@@ -1,0 +1,3 @@
+packages: . compact
+
+allow-newer: all
